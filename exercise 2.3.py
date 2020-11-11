@@ -1,7 +1,7 @@
 # This first line is provided for you
 
 hrs = input("Enter Hours:") #enter hours
-rate = input ("Enter rate") #entrate 
+rate = input ("Enter rate") #enter rate 
 
 
 pay = float(hrs) * float(rate) #create the variable pay while converting str to interger
